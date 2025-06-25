@@ -8,7 +8,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "mlops"
 AUTHOR_USER_NAME = "PushpaRaj-debug"
-SRC_REPO = "mlops"
+SRC_REPO = "mlProject"
 AUTHOR_EMAIL = "kavita.sonawane692@gmail.com"
 
 
